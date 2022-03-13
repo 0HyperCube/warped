@@ -11,7 +11,7 @@ You walk through 10 levels (floors) each with a unique colour scheme, killing or
 
 ## Enemies
 - Several variaties of enemies with different attack speeds / movement speeds / damage
-- Enimes move towards the player if they have a direct line of site, otherwise they stay still
+- Enemies move towards the player if they have a direct line of site, otherwise they stay still
 - When enemies are within a certain distance of the player, they start an animation with them moving forward
 - If their animation finishes and they are near the player, they apply their damage output
 
@@ -23,6 +23,5 @@ You walk through 10 levels (floors) each with a unique colour scheme, killing or
 
 ## NPCs & quests
 - There are a number of neutral npcs on the map
-- If you press <kbd>e</kbd>
-
-
+- If you press <kbd>e</kbd> then you see their dialogue box
+- They will request a room to be cleard or items to be collected and returned to them
