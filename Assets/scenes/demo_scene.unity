@@ -1259,6 +1259,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walk_speed: 3
+  punch_speed: 9
+  punch_time: 0.3
   rigidbody_component: {fileID: 843346569}
 --- !u!212 &843346567
 SpriteRenderer:

@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviour
     public Rigidbody2D rigidbody_component;
 
     private float start_punch = -100;
-    private Vector2 punch_direction;
+    private Vector2 punch_direction = new Vector2(1,0);
 
     // Start is called before the first frame update
     void Start()
